@@ -42,7 +42,7 @@ Cloning the repository allows the files located in a given repository to be copi
 
 ### To clone this repository
 
-The **git clone** command is used to begin this process. To get the 
+The **git clone** command is used to begin this process. To get the repository address, simply click the green pull down button labeled code.
 
 ![Finding thg repository's link](assets/github-repo-link.png){: width="40%"}
 
