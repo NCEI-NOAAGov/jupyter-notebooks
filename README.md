@@ -25,3 +25,29 @@ The project will be broken into folders by dataset. An example would be for the 
 - Which results in the following example file for GHCNh:
 
     - GHCNh/ghcnh-basic_connection-python.ipynb
+
+---
+
+## Installing Jupyter Notebooks
+
+The best source for installing Jupyter Notebooks to begin experimenting with features is the installation portion of Jupyter's website:
+
+[https://jupyter.org/install](https://jupyter.org/install)
+
+Follow the instruction provided to get your notebook instance installed on your machine. Once installed you can clone this repository to begin experimenting.
+
+## Cloning the repository
+
+Cloning the repository allows the files located in a given repository to be copied to your machine.
+
+### To clone this repository
+
+The **git clone** command is used to begin this process. To get the 
+
+![Finding thg repository's link](github-repo-link.png)
+
+An example command for another repository would be:
+
+- git clone https://github.com/NCEI-NOAAGov/zarrdap.git
+
+Replace with the repository link for your project.
