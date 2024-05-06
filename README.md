@@ -44,7 +44,7 @@ Cloning the repository allows the files located in a given repository to be copi
 
 The **git clone** command is used to begin this process. To get the 
 
-![Finding thg repository's link](github-repo-link.png)
+![Finding thg repository's link](assets/github-repo-link.png =250x)
 
 An example command for another repository would be:
 
