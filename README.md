@@ -20,7 +20,7 @@ The project will be broken into folders by dataset. An example would be for the 
 
 - In this folder will be the notebooks for this dataset that have been prepared. Each notebook will be named as follows:
 
-    - <dataset-shortname>-<notebook_information>-<programming-language>
+    - **dataset-shortname**-**notebook_information**-**programming-language**
 
 - Which results in the following example file for GHCNh:
 
