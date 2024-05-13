@@ -50,4 +50,4 @@ An example command for another repository would be:
 
 - git clone https://github.com/NCEI-NOAAGov/zarrdap.git
 
-Replace with the repository link for your project.
+Replace with the repository link for your exact project repository.
